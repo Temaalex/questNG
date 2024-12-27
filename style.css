@@ -1,0 +1,37 @@
+.size{
+	position:absolute;
+	top:50%;
+	left:50%;
+	font-size: 50px;
+	font-weight:bold;
+	text-align:left;
+	transform:translate(-50%, -50%);
+	
+}
+.size2{
+	position:absolute;
+	top:50%;
+	left:50%;
+	font-size: 40px;
+	font-weight:bold;
+	text-align: center;
+	transform:translate(-50%, -50%);
+	
+}
+h1{
+	margin-top:100px;
+	font-size: 70px;
+	font-weight:bold;
+	text-align: center;
+}
+.imgSize{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+audio{
+	display:block;
+	width:500px;
+	height:100px;
+}
