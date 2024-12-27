@@ -18,6 +18,16 @@
 	transform:translate(-50%, -50%);
 	
 }
+.size3{
+	position:absolute;
+	top:50%;
+	left:50%;
+	font-size: 30px;
+	font-weight:bold;
+	text-align:left;
+	transform:translate(-50%, -50%);
+	
+}
 h1{
 	margin-top:100px;
 	font-size: 70px;
